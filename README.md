@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Jovan's github stats](https://github-readme-stats.vercel.app/api?username=JovanXin)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovanXin&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=onedark&custom_title=Languages%20I%20Use!" />
 <!--
 **JovanXin/JovanXin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
